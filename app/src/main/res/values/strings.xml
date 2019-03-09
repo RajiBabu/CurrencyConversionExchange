@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyConversionExchange</string>
+    <string name="currency_conversion_exchange">Currency Conversion Exchange</string>
+    <string name="dollar_amount">Dollar Amount: $</string>
+    <string name="convert_to">Convert to:</string>
+    <string name="apply">Apply</string>
+    <string name="close">Close</string>
+    <string name="amount" />
+    <string name="convert" />
+    <string name="amount_data">0</string>
+    <string name="convert_to_value">Euro</string>
+</resources>
